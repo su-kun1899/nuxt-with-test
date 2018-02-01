@@ -16,7 +16,10 @@ $ yarn build
 $ yarn start
 
 # generate static project
-$ npm run generate
+$ yarn generate
+
+# test
+$ yarn test
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
